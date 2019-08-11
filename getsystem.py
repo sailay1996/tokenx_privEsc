@@ -1,5 +1,5 @@
 # getsystem via token priv
-# not exploit , just jumping admin to system
+# python 2.7.11
 import sys, os
 from ctypes import *
 
