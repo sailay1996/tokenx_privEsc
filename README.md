@@ -21,6 +21,8 @@ without metasploit <br>
 
 ### more about tokens privilege <br>
 ### Resources:
+https://github.com/py7hagoras/GetSystem <br>
+https://gist.github.com/mvelazc0/9a4f05a67a12a86181e89f6026a020f2 <br>
 https://blog.xpnsec.com/becoming-system/ <br>
 https://github.com/hatRiot/token-priv <br>
 https://powersploit.readthedocs.io/en/latest/Privesc/Get-System/ <br>
